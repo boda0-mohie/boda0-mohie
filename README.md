@@ -45,12 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
 - GitHub: https://github.com/boda0-mohie/boda0-mohie
