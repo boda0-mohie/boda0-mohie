@@ -23,14 +23,16 @@
 - Node.js
 - NestJS
 - Express
+- NextJs
 
 ### Database
 - PostgreSQL
-- Prisma
-- TypeORM
+- MySQL
+- Orcal
+- Mongo
 
 ### Tools
-- Git
+- Git / GitHub
 - Docker
 - Postman
 
@@ -39,15 +41,14 @@
 ## 📚 Currently Learning
 
 - Advanced Backend Architecture
-- Authentication Systems (JWT / Refresh Tokens)
 - System Design
-- Microservices
+- Algorithms
 
 ---
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/boda0-mohie/boda0-mohie
+- GitHub: https://github.com/boda0-mohie
 - LinkedIn: www.linkedin.com/in/abdelrahman-mohie-dev
 
 ---
